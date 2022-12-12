@@ -1,0 +1,510 @@
+insert 15
+insert 6
+insert 7
+insert 3
+insert 4
+insert 18
+insert 20
+insert 2
+insert 13
+insert 17
+insert 9
+walk
+lookup 18
+lookup 16
+lookup 8
+lookup 9
+succ 15
+succ 6
+succ 4
+pred 6
+minimum
+maximum
+delete 15
+walk
+delete 18
+walk
+delete 20
+walk
+delete 17
+walk
+delete 6
+walk
+delete 7
+walk
+delete 3
+walk
+delete 13
+walk
+delete 9
+walk
+delete 4
+walk
+delete 2
+walk
+insert 68
+insert 62
+insert 67
+insert 69
+insert 71
+insert 61
+insert 65
+insert 70
+insert 72
+insert 63
+insert 64
+insert 74
+insert 75
+insert 73
+insert 66
+walk
+lookup 60
+lookup 68
+lookup 66
+lookup 76
+minimum
+maximum
+pred 70
+pred 72
+pred 67
+pred 63
+pred 68
+pred 61
+delete 69
+walk
+delete 67
+walk
+delete 71
+walk
+delete 62
+walk
+delete 68
+walk
+delete 63
+walk
+delete 61
+walk
+delete 65
+walk
+delete 70
+walk
+delete 72
+walk
+delete 74
+walk
+delete 64
+walk
+delete 73
+walk
+delete 75
+walk
+delete 66
+walk
+insert 31
+insert 39
+insert 38
+insert 37
+insert 36
+insert 35
+insert 34
+insert 33
+insert 32
+walk
+pred 31
+succ 31
+pred 32
+succ 32
+minimum
+maximum
+lookup 35
+lookup 32
+delete 35
+walk
+lookup 35
+delete 39
+walk
+delete 37
+walk
+delete 38
+walk
+delete 36
+walk
+delete 33
+walk
+delete 34
+walk
+lookup 32
+delete 32
+walk
+lookup 32
+delete 31
+walk
+insert 41
+insert 49
+insert 42
+insert 48
+insert 43
+insert 47
+insert 44
+insert 46
+insert 45
+walk
+minimum
+maximum
+pred 41
+succ 41
+pred 42
+pred 49
+delete 41
+walk
+delete 42
+walk
+lookup 43
+delete 43
+walk
+lookup 43
+delete 44
+walk
+delete 45
+walk
+delete 46
+walk
+delete 47
+walk
+lookup 48
+delete 48
+walk
+lookup 48
+delete 49
+walk
+insert 8
+minimum
+maximum
+insert 9
+minimum
+maximum
+insert 11
+minimum
+maximum
+insert 2
+minimum
+maximum
+insert 1
+minimum
+maximum
+insert 12
+minimum
+maximum
+insert 7
+minimum
+maximum
+insert 14
+minimum
+maximum
+insert 5
+minimum
+maximum
+insert 6
+minimum
+maximum
+insert 13
+minimum
+maximum
+insert 10
+minimum
+maximum
+insert 15
+minimum
+maximum
+insert 3
+minimum
+maximum
+insert 4
+minimum
+maximum
+walk
+pred 1
+pred 2
+pred 3
+pred 4
+pred 5
+pred 6
+pred 7
+pred 8
+pred 9
+pred 10
+pred 11
+pred 12
+pred 13
+pred 14
+pred 15
+succ 1
+succ 2
+succ 3
+succ 4
+succ 5
+succ 6
+succ 7
+succ 8
+succ 9
+succ 10
+succ 11
+succ 12
+succ 13
+succ 14
+succ 15
+delete 9
+walk
+minimum
+maximum
+delete 7
+walk
+minimum
+maximum
+delete 11
+walk
+minimum
+maximum
+delete 2
+walk
+minimum
+maximum
+delete 8
+walk
+minimum
+maximum
+delete 1
+walk
+minimum
+maximum
+delete 12
+walk
+minimum
+maximum
+lookup 1
+lookup 2
+lookup 3
+lookup 4
+lookup 5
+lookup 6
+lookup 7
+lookup 8
+lookup 9
+lookup 10
+lookup 11
+lookup 12
+lookup 13
+lookup 14
+lookup 15
+delete 14
+walk
+minimum
+maximum
+delete 5
+walk
+minimum
+maximum
+delete 6
+walk
+minimum
+maximum
+delete 13
+walk
+minimum
+maximum
+delete 10
+walk
+minimum
+maximum
+delete 15
+walk
+minimum
+maximum
+delete 3
+walk
+minimum
+maximum
+delete 4
+walk
+minimum
+maximum
+insert 718
+insert 804
+insert 389
+insert 794
+insert 460
+insert 932
+insert 704
+insert 873
+insert 323
+insert 41
+insert 329
+insert 445
+insert 700
+insert 723
+insert 667
+insert 728
+insert 883
+insert 939
+insert 588
+insert 296
+insert 482
+insert 73
+pred 718
+pred 804
+pred 389
+pred 794
+pred 460
+pred 932
+pred 704
+pred 873
+pred 323
+pred 41
+pred 329
+pred 445
+pred 700
+pred 723
+pred 667
+pred 728
+pred 883
+pred 939
+pred 588
+pred 296
+pred 482
+pred 73
+succ 718
+succ 804
+succ 389
+succ 794
+succ 460
+succ 932
+succ 704
+succ 873
+succ 323
+succ 41
+succ 329
+succ 445
+succ 700
+succ 723
+succ 667
+succ 728
+succ 883
+succ 939
+succ 588
+succ 296
+succ 482
+succ 73
+lookup 718
+lookup 805
+lookup 389
+lookup 793
+lookup 460
+lookup 933
+lookup 704
+lookup 874
+lookup 323
+lookup 42
+lookup 329
+lookup 444
+lookup 700
+lookup 724
+lookup 667
+lookup 727
+lookup 883
+lookup 940
+lookup 588
+lookup 295
+lookup 482
+lookup 74
+walk
+minimum
+maximum
+delete 718
+walk
+minimum
+maximum
+delete 804
+walk
+minimum
+maximum
+delete 389
+walk
+minimum
+maximum
+delete 794
+walk
+minimum
+maximum
+delete 460
+walk
+minimum
+maximum
+delete 932
+walk
+minimum
+maximum
+delete 704
+walk
+minimum
+maximum
+delete 873
+walk
+minimum
+maximum
+delete 323
+walk
+minimum
+maximum
+delete 41
+walk
+minimum
+maximum
+delete 329
+walk
+minimum
+maximum
+delete 445
+walk
+minimum
+maximum
+delete 700
+walk
+minimum
+maximum
+delete 723
+walk
+minimum
+maximum
+delete 667
+walk
+minimum
+maximum
+delete 728
+walk
+minimum
+maximum
+delete 883
+walk
+minimum
+maximum
+delete 939
+walk
+minimum
+maximum
+delete 588
+walk
+minimum
+maximum
+delete 296
+walk
+minimum
+maximum
+delete 482
+walk
+minimum
+maximum
+delete 73
+walk
+minimum
+maximum
+lookup 98
